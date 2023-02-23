@@ -28,7 +28,7 @@ Knife
 
 
 ### Notes:
-This Homemade Belgian Waffle Recipe is easy and makes delicious, authentic, Belgian waffles!  These waffles are perfectly crisp and golden on the outside while being light and fluffy on the inside!
+Looking for an indulgent, protein-packed breakfast? You're in the right place. This super savory dish is delicious with roasted potatoes or hash browns.
 
 ### Codemates #
 @mcheng31
