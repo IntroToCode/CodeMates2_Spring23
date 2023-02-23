@@ -8,7 +8,11 @@
 
 
 ## Equipment needed:
-
+- Belgian waffle iron
+- large bowl
+- medium bowl x2
+- whisk
+- hand mixer
 
 ## Steps for preparation:
 
