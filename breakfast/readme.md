@@ -1,7 +1,6 @@
 # Replace with recipe name
 
 ## Servings: 
-8 
 
 ## Time to prepare: 
 
