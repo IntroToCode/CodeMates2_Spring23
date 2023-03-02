@@ -26,22 +26,14 @@
 - Knife
 
 ## Steps for preparation:
-###Step 1
-Remove steak from refrigerator and let come to room temperature, 30 minutes. 
-###Step 2
-Rub steak with 1 tablespoon vegetable oil and season all over with 1 ½ teaspoon salt, 1 teaspoon pepper, and ¾ teaspoon paprika.
-###Step 3
-Heat a medium cast iron skillet over medium-high heat. Add steak and cook, flipping once, until a deep golden crust begins to form on both sides of the steak, about 5 minutes total. 
-###Step 4
-Reduce heat to medium-low and add butter to pan. Using a kitchen towel, carefully grip the skillet handle and tilt towards you so that the melting butter forms a pool at the bottom of the skillet. Using a spoon, continually baste butter onto steak to form a deeper golden crust. Flip steak and repeat, 2 to 3 minutes in total. Using a meat thermometer, check for doneness: 120-125°F  for medium rare, 130°F for medium. 
-###Step 5
-Transfer steak onto a cutting board and let rest about 10 minutes. 
-###Step 6
-Meanwhile, heat remaining oil in a nonstick skillet over medium heat until shimmering. Crack egg into pan and cook 3 to 4 minutes, or until white is set and edges are just beginning to brown. Remove from pan and season with salt and pepper.
-###Step 7
-Slice steak into 1" strips on a bias, against the grain. 
-###Step 8
-Serve steak with eggs and potatoes. Garnish with herbs and season with more salt, pepper, and paprika to taste.
+1) Remove steak from refrigerator and let come to room temperature, 30 minutes. 
+2) Rub steak with 1 tablespoon vegetable oil and season all over with 1 ½ teaspoon salt, 1 teaspoon pepper, and ¾ teaspoon paprika.
+3) Heat a medium cast iron skillet over medium-high heat. Add steak and cook, flipping once, until a deep golden crust begins to form on both sides of the steak, about 5 minutes total. 
+4) Reduce heat to medium-low and add butter to pan. Using a kitchen towel, carefully grip the skillet handle and tilt towards you so that the melting butter forms a pool at the bottom of the skillet. Using a spoon, continually baste butter onto steak to form a deeper golden crust. Flip steak and repeat, 2 to 3 minutes in total. Using a meat thermometer, check for doneness: 120-125°F  for medium rare, 130°F for medium. 
+5) Transfer steak onto a cutting board and let rest about 10 minutes. 
+6) Meanwhile, heat remaining oil in a nonstick skillet over medium heat until shimmering. Crack egg into pan and cook 3 to 4 minutes, or until white is set and edges are just beginning to brown. Remove from pan and season with salt and pepper.
+7) Slice steak into 1" strips on a bias, against the grain. 
+8) Serve steak with eggs and potatoes. Garnish with herbs and season with more salt, pepper, and paprika to taste.
 
 
 ### Notes:
