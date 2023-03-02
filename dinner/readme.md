@@ -43,4 +43,4 @@ This Homemade Belgian Waffle Recipe is easy and makes delicious, authentic, Belg
 
 
 ### Codemates #
-@carolynchuong 
+@mcheng31 @dbadih @carolynchuong @kyledeshon @stehsieh
