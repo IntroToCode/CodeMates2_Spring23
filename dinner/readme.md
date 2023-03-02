@@ -1,4 +1,4 @@
-# Replace with recipe name
+# Homemade Belgian Waffle
 
 ## Servings: 
 8
@@ -39,7 +39,7 @@ Serve immediately with butter, syrup, powdered sugar or any other favorite toppi
 
 
 ### Notes:
-
+This Homemade Belgian Waffle Recipe is easy and makes delicious, authentic, Belgian waffles!  These waffles are perfectly crisp and golden on the outside while being light and fluffy on the inside!
 
 
 ### Codemates #
